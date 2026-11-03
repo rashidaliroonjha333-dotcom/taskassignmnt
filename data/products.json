@@ -1,0 +1,10 @@
+[
+ {"id":"p1","name":"Wireless Headphones","category":"Electronics","price":6499,"oldPrice":7999,"description":"Comfortable over-ear headphones with rich sound and long battery life.","image":"https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800","stock":18,"featured":true},
+ {"id":"p2","name":"Smart Watch","category":"Electronics","price":8999,"oldPrice":10999,"description":"Track your activity, notifications and everyday health metrics.","image":"https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800","stock":12,"featured":true},
+ {"id":"p3","name":"Everyday Backpack","category":"Fashion","price":3299,"oldPrice":0,"description":"A versatile backpack with a padded laptop compartment.","image":"https://images.unsplash.com/photo-1553062407-98eeb64c6a62?w=800","stock":25,"featured":true},
+ {"id":"p4","name":"Ceramic Coffee Set","category":"Home & Living","price":2199,"oldPrice":2699,"description":"Minimal ceramic cups for your daily coffee ritual.","image":"https://images.unsplash.com/photo-1514228742587-6b1558f590f4?w=800","stock":30,"featured":false},
+ {"id":"p5","name":"Running Sneakers","category":"Fashion","price":5799,"oldPrice":6499,"description":"Lightweight everyday trainers with a cushioned sole.","image":"https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=800","stock":9,"featured":true},
+ {"id":"p6","name":"Desk Lamp","category":"Home & Living","price":1899,"oldPrice":0,"description":"A clean, modern lamp for focused work and reading.","image":"https://images.unsplash.com/photo-1507473885765-e6ed057f782c?w=800","stock":14,"featured":false},
+ {"id":"p7","name":"Skin Care Essentials","category":"Beauty","price":2799,"oldPrice":3199,"description":"A simple daily care set for a fresh, hydrated feel.","image":"https://images.unsplash.com/photo-1608248543803-ba4f8c70ae0b?w=800","stock":20,"featured":false},
+ {"id":"p8","name":"Portable Bluetooth Speaker","category":"Electronics","price":4499,"oldPrice":0,"description":"Compact speaker for music at home or on the go.","image":"https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800","stock":16,"featured":false}
+]
